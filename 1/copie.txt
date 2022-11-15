@@ -1,0 +1,2 @@
+mkdir -p Work/Linux/exercices
+cd  Work/Linux/exercices
