@@ -1,0 +1,24 @@
+less | cat exercice3.txt ./../2/exercice2.txt ./../1/exercice1.txt
+.:
+total 12K
+4,0K drwxrwxr-x 2 f4cte f4cte 4,0K nov.  15 10:19 1
+4,0K drwxrwxr-x 2 f4cte f4cte 4,0K nov.  15 11:31 2
+4,0K drwxrwxr-x 3 f4cte f4cte 4,0K nov.  15 12:08 3
+
+./1:
+total 8,0K
+4,0K -rw-rw-r-- 1 f4cte f4cte 55 nov.  15 09:34 copie.txt
+4,0K -rw-rw-r-- 1 f4cte f4cte 97 nov.  15 10:19 exercice1.txt
+
+./2:
+total 68K
+68K -rw-rw-r-- 1 f4cte f4cte 66K nov.  15 11:58 exercice2.txt
+
+./3:
+total 8,0K
+4,0K drwxrwxr-x 2 f4cte f4cte 4,0K nov.  15 12:01 chaine
+4,0K -rw-rw-r-- 1 f4cte f4cte   67 nov.  15 12:11 exercice3.txt
+
+./3/chaine:
+total 0
+0 -rw-rw-r-- 1 f4cte f4cte 0 nov.  15 12:01 nouveau
