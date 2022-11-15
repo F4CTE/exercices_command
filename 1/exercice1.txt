@@ -1,2 +1,3 @@
 mkdir -p Work/Linux/exercices
 cd  Work/Linux/exercices
+nano ./WORK/Linux/exercices/exercice1.txt
